@@ -1,4 +1,4 @@
-# Business-Intelligence-Dashboard-for-Health-Company-Sales-Data
+# Business Intelligence Dashboard for Health Company Sales Data
 Using Power BI to Analyze User Behavior and Sales in a Health Products Company: Data Cleansing, Reports Based on User Characteristics, Sales Volume, Future Predictions, VIP User Identification, etc.
 
 This project involved creating an interactive business intelligence dashboard using Power BI to analyze sales data for a health company. The raw data spanned three datasets - users, purchases, and products. After preprocessing the data and creating a coherent database, relationships were established between the tables to build a unified database. Various reports were generated to provide insights into sales performance by location, customer demographics, products, and time. Advanced analytics like sales forecasts were also implemented. An interactive storyboard was created to present key findings. The project demonstrated proficiency in data wrangling, modeling, visualization, and storytelling using Power BI.
